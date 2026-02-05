@@ -1,2 +1,5 @@
 .venv
 .vscode
+.venv310
+notebooks/lessson_29/data
+notebooks/data
